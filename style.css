@@ -1,0 +1,41 @@
+body {
+    justify-content: center;
+    align-items: center;
+
+}
+div {
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    margin-left: 430px;
+    margin-top: 80px;
+    height: 400px;
+}
+#imgpos {
+    position: relative;
+    width: 40%;
+
+}
+#texto1 {
+    position: relative;
+}
+#texto2 {
+    position: relative;
+}
+#login {
+    position: relative;
+    color: black;
+    margin-top: 20px;
+}
+#senha {
+    position: relative;
+    color: black
+}
+#botão {
+    position: relative;
+    margin-top: 70px;
+
+}
